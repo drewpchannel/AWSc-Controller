@@ -11,12 +11,12 @@ namespace ConsoleApplication4
             var conn = sqlServer.getConnection();
             conn.Open();
 
-            string simple = "whatever'); drop table data; INSERT INTO data (some_field) VALUES ('anything";
+            string simple = "{435, 982}";
             sqlServer.recordCoords(simple);
 
             var cmdRead = new NpgsqlCommand();
             cmdRead.Connection = conn;
-            cmdRead.CommandText = "SELECT * FROM data";
+            cmdRead.CommandText = "SELECT * FROM tradeinfo";
             var queryText = cmdRead.ExecuteReader();
 
             Console.WriteLine(queryText.Read());

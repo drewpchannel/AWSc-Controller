@@ -18,7 +18,7 @@ namespace ConsoleApplication4
         {
             var cmd = new NpgsqlCommand();
             cmd.Connection = this._npgsqlConnection;
-            var cmdText = $"INSERT INTO data (some_field) VALUES ('{playerId}')";
+            var cmdText = $"INSERT INTO tradeinfo (coords) VALUES ('{playerId}')";
             Console.WriteLine(cmdText);
             cmd.CommandText = cmdText;
             cmd.ExecuteNonQuery();

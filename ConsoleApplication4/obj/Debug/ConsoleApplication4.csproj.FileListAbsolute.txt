@@ -15,3 +15,20 @@ c:\Users\a\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleAppl
 c:\Users\a\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
 c:\Users\a\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
 c:\Users\a\Documents\Visual Studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\Projects\AWSc-Controller\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\Projects\AWSc-Controller\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\Npgsql.dll
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\Npgsql.xml
+D:\Projects\AWSc-Controller\ConsoleApplication4\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects\AWSc-Controller\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
